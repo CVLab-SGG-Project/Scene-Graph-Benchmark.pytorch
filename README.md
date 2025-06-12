@@ -14,6 +14,7 @@ Our paper [Unbiased Scene Graph Generation from Biased Training](https://arxiv.o
 - [x] 2020.06.23 Allow scene graph detection (SGDet) on custom images [\[link\]](#SGDet-on-custom-images)
 - [x] 2020.07.21 Change scene graph detection output on custom images to json files [\[link\]](#SGDet-on-custom-images)
 - [x] 2020.07.21 Visualize detected scene graphs of custom images [\[link\]](#Visualize-Detected-SGs-of-Custom-Images)
+- [x] 2024.06.12 Add baseline LiteLLM scene graph generator [\[link\]](llm_sgg/README.md)
 - [ ] TODO: Using [Background-Exempted Inference](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch/tree/master/lvis1.0#background-exempted-inference) to improve the quality of TDE Scene Graph
 
 ## Contents
